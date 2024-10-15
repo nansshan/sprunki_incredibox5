@@ -10,7 +10,7 @@ export default function About() {
           With three distinct variations of the game, Sprunki Incredibox allows you to dive into different musical worlds. From classic beats to remixed tunes and evolutionary sounds, each game provides a fresh and engaging experience for music enthusiasts and casual players alike.
         </p>
         <p className="mb-4 text-sprunki-yellow">
-          Whether you're a seasoned musician or just starting your musical journey, Sprunki Incredibox offers an intuitive and fun way to create, mix, and enjoy unique beats. Our game is designed to spark creativity, enhance rhythm skills, and provide hours of musical entertainment.
+          Whether you&apos;re a seasoned musician or just starting your musical journey, Sprunki Incredibox offers an intuitive and fun way to create, mix, and enjoy unique beats. Our game is designed to spark creativity, enhance rhythm skills, and provide hours of musical entertainment.
         </p>
         <p className="text-sprunki-green">
           Join the Sprunki Incredibox community today and unleash your inner music producer. Let your creativity flow through music and discover the endless possibilities of beat-mixing!
